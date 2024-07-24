@@ -301,16 +301,16 @@ security_groups_ec2 = [
 ```
 
 ## Testing
-ALB with a listner with 2 rules:
+ALB with a listener with 2 rules:
 ![alt text](/images/alb.png)
 
-Listner rules Default and Other
+Listener rules Default and Other
 ![alt text](/images/listener.png)
 
 ALB Resource Map:
 ![alt text](/images/resourcemap.png)
 
-Default route EC2 web insances:
+Default route EC2 web instances:
 ![alt text](/images/ec2a.png)
 ![alt text](/images/ec2b.png)
 
