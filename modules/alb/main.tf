@@ -13,6 +13,7 @@ resource "aws_lb" "aws-application_load_balancer" {
     Name = "${var.naming_prefix}-alb"
   })
 }
+
 ################################################################################
 # create target groups for ALB - Default and Other
 ################################################################################
